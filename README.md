@@ -11,23 +11,21 @@ A multi-page responsive website created for the COS 106 Introduction to Web Tech
 
 ## Technologies
 - Semantic HTML5, forms, image, tables/links and accessible labels.
-- External CSS stylesheet at `css/style.css`, including responsive mobile layouts.
-- JavaScript at `js/main.js` for navigation, planner interactions and form validation.
-- A local SVG avatar at `images/profile.svg`.
+- External CSS stylesheet at `style.css`, including responsive mobile layouts.
+- JavaScript at `main.js` for navigation, planner interactions and form validation.
+- A local SVG avatar at `profile.svg`.
 
-## Run locally
-1. Extract the ZIP file.
-2. Open the `student_portfolio_project` folder in Visual Studio Code.
-3. Open `index.html` in a browser (or use the Live Server extension).
-4. Test every navigation link, add tasks on Academic Planner, and try invalid and valid values in Contact.
+## How to Run
+1.Download or clone this repository.
+2.Open index.html in a web browser.
+3.Use the navigation menu to explore the pages.
 
-## Before submitting
-1. Check that the name, biography, education details, skills, and contact information reflect your own details.
-2. Replace the sample email `roland@example.com` on `contact.html`.
-3. Make sure you understand the HTML, CSS, and JavaScript so you can explain your work.
-4. Create a GitHub repository and upload all files while keeping the folder structure.
-5. Publish the website using GitHub Pages. Submit both the live website URL and the GitHub repository URL.
+Project Links
+Live Website: https://rolandjoe12.github.io/student-portfolio-website-4/
+GitHub Repository: https://github.com/rolandjoe12/student-portfolio-website-4
 
-## Notes
-- The contact form is a front-end demonstration; it validates the form but does not email or store submitted messages on a server.
-- The three project descriptions are sample descriptions. Update them with your own completed projects when appropriate.
+Author
+Roland Eyo
+
+Course
+COS 106 – Introduction to Web Technologies
